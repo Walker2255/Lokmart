@@ -3,4 +3,10 @@
     <string name="connection_error">Connection error</string>
     <string name="error">An error occured</string>
     <string name="invalid_credentials">Invalid credentials</string>
+    <string name="onboarding_title_0">Welcome to LokMart! \n Grocery Applications</string>
+    <string name="onboarding_description_0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</string>
+    <string name="fragment_onboarding_next">NEXT</string>
+    <string name="onboarding_title_1">Best Quality and \\n Fast Delivery!</string>
+    <string name="onboarding_description_1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore</string>
+    <string name="fragment_onboarding_get_started">Get started</string>
 </resources>
